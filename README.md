@@ -1,4 +1,4 @@
-# javascript-challenge
+# Javascript-Challenge
 ## JavaScript and DOM Manipulation using JavaScript, HTML, and CSS, and D3.js
 
 ## Background
